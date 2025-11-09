@@ -1,0 +1,5 @@
+streamlit>=1.31
+tensorflow>=2.12
+pillow>=9.0.0
+pillow-avif-plugin
+numpy>=1.23
